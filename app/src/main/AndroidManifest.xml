@@ -28,19 +28,19 @@
 
         <!-- encuestas -->
         <activity
-            android:name="net.gshp.apiencuesta.ListTipoEncuestas"
+            android:name="net.gshp.apicontroller.ListTipoEncuestas"
             android:label="@string/title_activity_list_tipo_encuestas"
             android:theme="@android:style/Theme.Light.NoTitleBar"
             tools:replace="android:theme">
         </activity>
         <activity
-            android:name="net.gshp.apiencuesta.ListEncuestas"
+            android:name="net.gshp.apicontroller.ListEncuestas"
             android:label="@string/title_activity_list_encuestas"
             android:theme="@android:style/Theme.Light.NoTitleBar"
             tools:replace="android:theme">
         </activity>
         <activity
-            android:name="net.gshp.apiencuesta.Encuesta"
+            android:name="net.gshp.apicontroller.Encuesta"
             android:label="@string/title_activity_encuesta"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.Dialog"

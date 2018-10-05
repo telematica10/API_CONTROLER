@@ -8,9 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/apiEncuesta" />
+            <option value="$PROJECT_DIR$/APICONTROLLER" />
+            <option value="$PROJECT_DIR$/APIDB" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/dBAPI" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -12,9 +12,9 @@ import android.widget.Button;
 
 import com.gosharp.apis.db.DBAPI;
 
-import net.gshp.apiencuesta.APIEncuesta;
-import net.gshp.apiencuesta.Encuesta;
-import net.gshp.apiencuesta.model.DAO.DAOEncuestas;
+import net.gshp.apicontroller.Apicontroller;
+import net.gshp.apicontroller.Encuesta;
+import net.gshp.apicontroller.model.DAO.DAOEncuestas;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 		//dbApi.loadDatabaseFromXML(getApplicationContext().getResources());
 		dbApi.createDB(getApplicationContext());
 		daoEncuestas = new DAOEncuestas();
-		APIEncuesta.getInstance().setPATH_FOTO(pathFoto);
+		Apicontroller.getInstance().setPATH_FOTO(pathFoto);
 
 	}
 
