@@ -9,13 +9,13 @@
         android:targetSdkVersion="28" />
 
     <application
-        android:name="net.gshp.com.antonio.apicontroller.app.APP"
+        android:name="net.gshp.apicontroller.app.APP"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="net.gshp.com.antonio.apicontroller.MainActivity"
+            android:name="net.gshp.apicontroller.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -31,17 +31,17 @@
         </service>
 
         <activity
-            android:name="net.gshp.com.antonio.apicontroller.ListTipoEncuestas"
+            android:name="net.gshp.apicontroller.ListTipoEncuestas"
             android:label="@string/title_activity_list_tipo_encuestas"
             android:theme="@android:style/Theme.Black.NoTitleBar" >
         </activity>
         <activity
-            android:name="net.gshp.com.antonio.apicontroller.ListEncuestas"
+            android:name="net.gshp.apicontroller.ListEncuestas"
             android:label="@string/title_activity_list_encuestas"
             android:theme="@android:style/Theme.Black.NoTitleBar" >
         </activity>
         <activity
-            android:name="net.gshp.com.antonio.apicontroller.Encuesta"
+            android:name="net.gshp.apicontroller.Encuesta"
             android:label="@string/title_activity_encuesta"
             android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen"
             android:windowSoftInputMode="adjustPan" >

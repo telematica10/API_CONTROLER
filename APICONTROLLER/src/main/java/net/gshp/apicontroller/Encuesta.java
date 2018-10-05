@@ -347,7 +347,7 @@ public class Encuesta extends Activity  implements OnItemSelectedListener,
 		NodoPregunta nodo = (NodoPregunta) v.getTag();
 		PreguntaRespuesta pregunta = nodo.getPregunta();
 		int position = listPreguntaRespuesta.indexOf(pregunta);
-		pathActual = APIEncuesta.getInstance().getPATH_FOTO()
+		pathActual = Apicontroller.getInstance().getPATH_FOTO()
 				+ System.currentTimeMillis() + ".jpg";
 		File file = new File(pathActual);
 		Uri outputFileUri = Uri.fromFile(file);

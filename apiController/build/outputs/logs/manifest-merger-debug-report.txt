@@ -32,13 +32,13 @@ ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/A
 	android:theme
 		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:13:9-40
 	android:name
-		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:9:9-54
-activity#net.gshp.apicontroller.MainActivity
+		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:9:9-66
+activity#net.gshp.com.antonio.apicontroller.MainActivity
 ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:14:9-22:20
 	android:label
 		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:16:13-45
 	android:name
-		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:15:13-63
+		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:15:13-75
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
@@ -57,23 +57,23 @@ ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/A
 		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:27:13-36
 	android:name
 		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:25:13-66
-activity#net.gshp.apicontroller.ListTipoEncuestas
+activity#net.gshp.com.antonio.apicontroller.ListTipoEncuestas
 ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:30:9-34:20
 	android:label
 		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:32:13-71
 	android:theme
 		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:33:13-66
 	android:name
-		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:31:13-68
-activity#net.gshp.apicontroller.ListEncuestas
+		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:31:13-80
+activity#net.gshp.com.antonio.apicontroller.ListEncuestas
 ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:35:9-39:20
 	android:label
 		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:37:13-66
 	android:theme
 		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:38:13-66
 	android:name
-		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:36:13-64
-activity#net.gshp.apicontroller.Encuesta
+		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:36:13-76
+activity#net.gshp.com.antonio.apicontroller.Encuesta
 ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:40:9-45:20
 	android:label
 		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:42:13-60
@@ -82,7 +82,7 @@ ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/A
 	android:theme
 		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:43:13-77
 	android:name
-		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:41:13-59
+		ADDED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml:41:13-71
 uses-sdk
 INJECTED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/antoniojacintoosorio/Documents/ALPHASOLUCIONES/API_CONTROLER/APICONTROLLER/src/main/AndroidManifest.xml
