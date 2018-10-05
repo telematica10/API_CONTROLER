@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 		switch (v.getId()) {
 			case R.id.id_button:
 				// inicializamos la encuesta de atm
-				showEncuesta(5, Encuesta.class);
+				showEncuesta(1, Encuesta.class);
 				break;
 		}
 	}
